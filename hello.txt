@@ -15,3 +15,8 @@ hello world!!!
 1111111111111111
 323123343536
 垃圾程序员
+#include（stc12c5A60s2.h）
+{
+void main()
+printf("最垃圾的程序员，没有之一"/n);
+}
